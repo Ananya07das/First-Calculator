@@ -8,7 +8,7 @@ My first calculator program in C
 -Division
 -Remainder
 
-## Concepts I used
+## Concepts used
 
 - Variables
 - `printf()` and `scanf()`
